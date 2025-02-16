@@ -61,6 +61,10 @@ export default {
                     name: "Telegram automated channel posting via ChatGPT, Bot",
                     link: "https://github.com/samanwirst/tg_userbot_fusion_ai",
                 },
+                {
+                    name: "This page",
+                    link: "https://github.com/samanwirst/website_resume/tree/main/resume",
+                },
             ]
         }
     }
