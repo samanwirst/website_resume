@@ -64,6 +64,11 @@ export default {
                     color: "#66ccff"
                 },
                 {
+                    name: "API Development (FastAPI, Flask)",
+                    version: "latest",
+                    color: "#66ccff"
+                },
+                {
                     name: "Linux",
                     version: "Ubuntu, Arch, Debian",
                     color: "#FCC624FF"
